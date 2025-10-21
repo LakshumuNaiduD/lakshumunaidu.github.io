@@ -1,9 +1,0 @@
-Test
-SPECIALIZED IN
-On Prem to Cloud Migration
-Database server Migrations (SQL -SQL, SQL – Postgres)
-Architecting the infrastructure for the applications
-Training and Mentoring the team
-Leading the Team 
-
-
